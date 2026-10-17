@@ -4,5 +4,4 @@ metadata:
   name: podinfo-config
   namespace: podinfo
 data:
-  GREETING: "Hello from Flux"
-  ENVIRONMENT: "demo"
+  GREETING: "Updated config"
