@@ -9,3 +9,7 @@ Makefile
 .\bin       # scripts and executable
 .\kind      # configuration for setting up local kind cluster
 ```
+
+## Communication instruction
+
+- Use plain English
